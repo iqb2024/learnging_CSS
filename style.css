@@ -1,0 +1,12 @@
+div {
+  background: #ff7675;
+  color: blue;
+  padding: 20px 5%;
+  overflow: scroll;
+  width: 300px;
+  height: 200px;
+  overflow-y:hidden;
+}
+p {
+  width: 600px;
+}
